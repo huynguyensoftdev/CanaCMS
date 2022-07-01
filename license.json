@@ -1,8 +1,8 @@
 {
  "version": 5,
- "title": "Cana CMS - Marketing CMS",
- "description": "CanaCMS is a free and open-source content management system written in PHP and paired with a MySQL with supported HTTPS. \nStart a blog , Open a store , Build a fan base , Design a portfolio . Anything you want. Welcome to the world is most popular website builder. Built‑In SEO Tools.",
+ "title": "Marketing CMS",
+ "description": "MarketingCMS is a content management system written in PHP and paired with a MySQL with supported HTTPS. \nStart a blog , Open a store , Build a fan base , Design a portfolio . Anything you want. Welcome to the world is most popular website builder. Built‑In SEO Tools.",
  "author":"HuyNguyenSoftdev@gmail.com and Team",
- "basicadministration":"https://github.com/huynguyensoftdev/CanaCMS",
- "customizing":"https://github.com/huynguyensoftdev/CanaCMS"
+ "basicadministration":"https://github.com/huynguyensoftdev/MarketingCMS",
+ "customizing":"https://github.com/huynguyensoftdev/MarketingCMS"
 }
