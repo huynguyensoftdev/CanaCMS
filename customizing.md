@@ -1,1 +1,9 @@
 Customizing
+1-header
+2-footer
+3-categories
+4-post
+5-products
+6-product
+7-page
+8-service
